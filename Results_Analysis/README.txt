@@ -10,4 +10,4 @@ a column and writes 999).
 Finally, the results.py script creates a folder with a specific threshold and a certain number of frames. Inside this folder, various graphs and data analyses are
 generated.
 
-The final results is just about comparing two different experiments run, it was used to compare my results to Bleichman et al. 
+The final evaluation is just about comparing two different experiments run, it was used to compare my results to Bleichman et al. 
