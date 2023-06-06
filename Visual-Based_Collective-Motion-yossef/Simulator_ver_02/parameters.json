@@ -1,0 +1,21 @@
+{
+  "simulation_params": {
+    "direction": "forward",
+    "num_sprites": 30,
+    "velocity": 2,
+    "shift_direction": false,
+    "shift_time": 30
+  },
+  "structure_params": {
+    "window_1_position": [1930, 200],
+    "window_2_position": [3850,200]
+  },
+  "sensor_params": {
+    "new_threshold_value": 1,
+    "Change_threshold": false,
+    "arduino_code_path": "D:\\AmirA21\\Desktop\\Yossef\\Pygame_Closed_Loop_ver_02\\Arduino_code_mouse\\Arduino_code_mouse.ino",
+    "control_system": 2,
+    "Recording": false,
+    "recording_file": "Mouse_records_01.txt"
+  }
+}
